@@ -1,0 +1,83 @@
+{
+    "input": {
+        "py/object": "test_case_input.TestCaseInput",
+        "x": {
+            "py/object": "numpy.ndarray",
+            "dtype": "float64",
+            "values": [
+                [
+                    0.44583275285359114,
+                    0.09997491581800289
+                ],
+                [
+                    0.45924889196586716,
+                    0.33370861113902184
+                ],
+                [
+                    0.14286681792194078,
+                    0.6508884729488529
+                ],
+                [
+                    0.056411579027100256,
+                    0.7219987722668247
+                ]
+            ]
+        },
+        "y": {
+            "py/object": "numpy.ndarray",
+            "dtype": "float64",
+            "values": [
+                [
+                    0.9385527090157502
+                ],
+                [
+                    0.0007787658410143283
+                ],
+                [
+                    0.9922115592912175
+                ],
+                [
+                    0.6174815096277165
+                ]
+            ]
+        },
+        "lrate": {
+            "py/object": "numpy.float64",
+            "dtype": "float64",
+            "value": 1.0
+        },
+        "weight": {
+            "py/object": "numpy.ndarray",
+            "dtype": "float64",
+            "values": [
+                [
+                    0.9851845837511974
+                ],
+                [
+                    0.7486761639061691
+                ]
+            ]
+        }
+    },
+    "output": {
+        "py/tuple": [
+            {
+                "py/object": "numpy.ndarray",
+                "dtype": "float64",
+                "values": [
+                    [
+                        0.9453399127404407
+                    ],
+                    [
+                        0.7790699011143537
+                    ]
+                ]
+            },
+            {
+                "py/object": "numpy.float64",
+                "dtype": "float64",
+                "value": 0.20133926039094008
+            }
+        ]
+    }
+}

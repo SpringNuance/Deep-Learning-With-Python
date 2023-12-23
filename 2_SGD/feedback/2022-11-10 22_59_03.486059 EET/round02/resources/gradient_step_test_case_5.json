@@ -1,0 +1,107 @@
+{
+    "input": {
+        "py/object": "test_case_input.TestCaseInput",
+        "x": {
+            "py/object": "numpy.ndarray",
+            "values": "eJwBkAFv/oCrCCLMbLg/TOR8eny71z/b/EzFJWflP+Ed62Y8T+U/3duMVunr4j/+Ahm3CpXRP0+M48W09eE/0u30uN+B2D/XXNr2QxjvPzwLC1NNKus/c78+gmgY5z+s4VX8wDTOPxpL82NsY9A/YHR0IbazpD9QzbUZwL3mP8A70EBXY7w/Lvbc2BYe3D/gu4BQ79HJPyuvi2oYquw/EM2DOnds3j/Bxgh+WgbiPxtZofOqQeY/2Bn985zVwT9rO6QdY1fjPzKvBdNgRuE/QCipA+n9yT/S005A2yvuP5q0KOnnKeM/MRelnK075j+pArjjyizsP+iDO1e1+uM//DURjanr0j9QAeP7qwG7P6DrbcbcN90/4DD8Mtv1yz/49SNXGajaP1VJKPbUQ+w/LqN1nhHC1D+ox6z8J0G/P2ZFi3KVzdY/c7FwFL0E7T+qz9JhnWrRP75btaHgueQ/AKSWFj0NQT+2xuL2fJDWP+o8DkCJgdM/XAUsaHETxT/KbauxQhfhP3Tgxkl0B98//L16nG8o5j8Xi9CB",
+            "shape": [
+                10,
+                5
+            ],
+            "dtype": "float64",
+            "byteorder": "<"
+        },
+        "y": {
+            "py/object": "numpy.ndarray",
+            "dtype": "float64",
+            "values": [
+                [
+                    0.2694123337985215
+                ],
+                [
+                    0.24412552224777417
+                ],
+                [
+                    0.16829104217293056
+                ],
+                [
+                    0.21876421957307024
+                ],
+                [
+                    0.5581020020173412
+                ],
+                [
+                    0.4038361710580408
+                ],
+                [
+                    0.06489224710898156
+                ],
+                [
+                    0.2539154139343447
+                ],
+                [
+                    0.2468760628386012
+                ],
+                [
+                    0.6963042728397884
+                ]
+            ]
+        },
+        "lrate": {
+            "py/object": "numpy.float64",
+            "dtype": "float64",
+            "value": 1.5
+        },
+        "weight": {
+            "py/object": "numpy.ndarray",
+            "dtype": "float64",
+            "values": [
+                [
+                    0.5244593902268233
+                ],
+                [
+                    0.4441860464265729
+                ],
+                [
+                    0.5188941456811751
+                ],
+                [
+                    0.6921214263036018
+                ],
+                [
+                    0.8864056222286789
+                ]
+            ]
+        }
+    },
+    "output": {
+        "py/tuple": [
+            {
+                "py/object": "numpy.ndarray",
+                "dtype": "float64",
+                "values": [
+                    [
+                        -0.848246412462665
+                    ],
+                    [
+                        -1.3706702238068003
+                    ],
+                    [
+                        -0.8808818342205105
+                    ],
+                    [
+                        -1.2239914051384284
+                    ],
+                    [
+                        -1.233497987697963
+                    ]
+                ]
+            },
+            {
+                "py/object": "numpy.float64",
+                "dtype": "float64",
+                "value": 1.4645206429978432
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "input": {
+        "py/object": "test_case_input.TestCaseInput",
+        "x": {
+            "py/object": "numpy.ndarray",
+            "dtype": "float64",
+            "values": [
+                [
+                    0.15599452033620265
+                ],
+                [
+                    0.05808361216819946
+                ],
+                [
+                    0.8661761457749352
+                ],
+                [
+                    0.6011150117432088
+                ]
+            ]
+        },
+        "y": {
+            "py/object": "numpy.ndarray",
+            "dtype": "float64",
+            "values": [
+                [
+                    0.7080725777960455
+                ],
+                [
+                    0.020584494295802447
+                ],
+                [
+                    0.9699098521619943
+                ],
+                [
+                    0.8324426408004217
+                ]
+            ]
+        },
+        "lrate": {
+            "py/object": "numpy.float64",
+            "dtype": "float64",
+            "value": 1.0
+        },
+        "weight": {
+            "py/object": "numpy.float64",
+            "dtype": "float64",
+            "value": 0.1
+        }
+    },
+    "output": {
+        "py/tuple": [
+            {
+                "py/object": "numpy.float64",
+                "dtype": "float64",
+                "value": 0.7691133861459882
+            },
+            {
+                "py/object": "numpy.float64",
+                "dtype": "float64",
+                "value": 0.46410948255628437
+            }
+        ]
+    }
+}
